@@ -48,6 +48,6 @@ urllib3==1.24.3
 wcwidth==0.1.7
 webcolors==1.8.1
 websocket-client==0.56.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 4992c7839f009029445147ff2a4785759f5d779e
 
